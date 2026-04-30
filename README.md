@@ -75,7 +75,7 @@ engineer = {
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=echooff16&theme=tokyonight&hide_border=true)](https://github.com/akaash897)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=echooff16&theme=tokyonight&hide_border=true)](https://github.com/echooff16)
 
 </div>
 
