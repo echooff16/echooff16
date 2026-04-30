@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/ar1tro/)
 [![Monash University](https://img.shields.io/badge/Monash%20University-006DAE?style=for-the-badge&amp;logo=monashuniversity&amp;logoColor=white)](https://www.monash.edu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&amp;logo=react&amp;logoColor=white)](https://echooff16.github.io/Portfolio/)
-[![Work Rights](https://img.shields.io/badge/Visa-485_Graduate-success?style=for-the-badge)](https://drive.google.com/drive/search?q=visa)
+[![Work Rights](https://img.shields.io/badge/Visa-485_Graduate-success?style=for-the-badge)](https://drive.google.com/file/d/1lTbLgZ-KkfYDijxllrQYKuhkvV_ShYXO/view?usp=drive_link)
 
 </div>
 
