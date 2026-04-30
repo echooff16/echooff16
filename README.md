@@ -22,7 +22,7 @@
 engineer = {
     "name"        : "Aritro Dutta",
     "role"        : "Graduate Software Engineer",
-    "education"   : "Monash University - Bachelor of Software Engineering(Honours) [2020 – 2025]",
+    "education"   : "Monash University - Bachelor of Software Engineering(Honours) [2025]",
     "expertise"   : ["AI Orchestration", "Full-Stack Web", "Algorithmic Optimisation"],
     "visa_status" : "Temporary Graduate Visa(485) · Valid until Jan 2028",
     "interests"   : ["Python Developer", "Computer Vision", "Fullstack Web Development", "Algorithms and Datastructures", "Avionics"],
