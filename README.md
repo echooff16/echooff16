@@ -18,7 +18,7 @@
 ## 🧠 About Me
 
 ```python
-engineer = {
+software_engineer = {
     "name"        : "Aritro Dutta",
     "role"        : "Graduate Software Engineer",
     "education"   : "Monash University - Bachelor of Software Engineering(Honours) · 2025",
