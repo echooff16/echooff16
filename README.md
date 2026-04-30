@@ -7,7 +7,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/ar1tro/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:aritro.dutta16@gmail.com)
 [![Monash University](https://img.shields.io/badge/Monash%20University-006DAE?style=for-the-badge&amp;logo=monashuniversity&amp;logoColor=white)](https://www.monash.edu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&amp;logo=react&amp;logoColor=white)](https://echooff16.github.io/Portfolio/)
 [![Work Rights](https://img.shields.io/badge/Visa-485_Graduate-success?style=for-the-badge)](https://drive.google.com/drive/search?q=visa)
@@ -27,6 +26,7 @@ engineer = {
     "visa_status" : "Temporary Graduate Visa(485) · Valid until Jan 2028",
     "interests"   : ["Python Developer", "Computer Vision", "Fullstack Web Development", "Algorithms and Datastructures", "Avionics"],
     "location"    : "Melbourne, Australia 📍",
+    "email"       : "aritro.dutta16@gmail.com"
 }
 
 ```
