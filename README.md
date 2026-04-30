@@ -70,11 +70,11 @@ As a graduate software engineer from Monash University, Melbourne, I plan to sta
 
 ## 📊 GitHub Stats
 
-<div align="left">
-<img height="185em" width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=echooff16&theme=tokyonight&hide_border=true" /> 
 
-<img height="185em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echooff16&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" /> 
-</div>
+<img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=echooff16&theme=tokyonight&hide_border=true" /> 
+
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echooff16&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" /> 
+
 
 ---
 <div align="center">
