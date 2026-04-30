@@ -47,15 +47,20 @@ engineer = {
 | 📊 **[Logistics Opt.](https://github.com/echooff16/Algorithms-and-DataStructures)** | Resource transportation | Personal Project | Python · Algorithms |
 | 🎵 **[Music Analytics](https://github.com/echooff16/Algorithms-and-DataStructures)** | Musical pattern recognition | Personal Project | Python · Data Structures |
 
+## 🏅 Certifications
+
+| Certification | Provider | Year |
+|---|---|---|
+| **[100 Days of Code: Python Pro Bootcamp](https://echooff16.github.io/Portfolio/images/udemy_python_cerification.pdf)** | Udemy | 2024 |
+| **[Cyber Security Management Virtual Experience](https://echooff16.github.io/Portfolio/images/certificate.pdf)** | ANZ | 2023 |
+
 ## 🏆 Achievements
 
-<div align="center">
 
 | 🥇 Achievement | Year |
 |---|---|
 |Faculty of Engineering International Undergraduate Excellence Scholarship | 2020 - 2025 |
 
-</div>
 
 ---
 
@@ -75,10 +80,8 @@ engineer = {
 </div>
 
 ---
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&width=1500&section=footer"/>
 
 </div>
