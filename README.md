@@ -37,7 +37,7 @@ As a graduate software engineer from Monash University, Melbourne, I plan to sta
 
 | 🏛️ Institution | 📜 Degree |  📅 Year |
 |---|---|---|
-| **Monash University** | Bachelor of Software Engineering(Hons.)| 2025 |
+| **Monash University** | Bachelor of Software Engineering (Honours)| 2025 |
 
 ## 🚀 Professional Experience & Projects
 | Project | Problem | Client | Stack |
