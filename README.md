@@ -54,6 +54,7 @@ As a graduate software engineer from Monash University, Melbourne, I plan to sta
 
 | Certification | Provider | Year |
 |---|---|---|
+| **[Software Engineer Certificate](https://echooff16.github.io/Portfolio/images/hackerrank_se_certificate.pdf)** | HackerRank | 2026 |
 | **[100 Days of Code: Python Pro Bootcamp](https://echooff16.github.io/Portfolio/images/udemy_python_cerification.pdf)** | Udemy | 2024 |
 | **[Cyber Security Management Virtual Experience](https://echooff16.github.io/Portfolio/images/certificate.pdf)** | ANZ | 2023 |
 
