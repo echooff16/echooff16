@@ -66,15 +66,7 @@ As a graduate software engineer from Monash University, Melbourne, I plan to sta
 |Faculty of Engineering International Undergraduate Excellence Scholarship | 2020 - 2025 |
 
 
----
 
-
-## 📊 GitHub Stats
-
-
-<img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=echooff16&theme=tokyonight&hide_border=true" /> 
-
----
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&width=1500&section=footer"/>
