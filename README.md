@@ -19,12 +19,12 @@
 
 ```python
 software_engineer = {
-    "name"      : "Aritro Dutta",
-    "role"      : "Graduate Software Engineer",
-    "education" : "Bachelor of Software Engineering (Honours), Monash University, 2025",
-    "focus"     : ["AI agents & LLM integration", "Full-stack web", "Algorithms & data structures"],
+    "name"       : "Aritro Dutta",
+    "role"       : "Graduate Software Engineer",
+    "education"  : "Bachelor of Software Engineering (Honours), Monash University, 2025",
+    "focus"      : ["AI agents & LLM integration", "Full-stack web", "Algorithms & data structures"],
     "work_rights": "Full working rights in Australia",
-    "location"  : "Melbourne, Australia",
+    "location"   : "Melbourne, Australia",
     "looking_for": "Junior software, AI engineering and technical support roles"
 }
 ```
