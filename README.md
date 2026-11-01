@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aritro%20Dutta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack&descAlignY=51&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Aritro%20Dutta&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Software%20Engineer%20%7C%20AI%20and%20Full-Stack&amp;descAlignY=51&amp;descAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Building+AI+agents+and+full-stack+apps;Python+%7C+TypeScript+%7C+React+%7C+Azure;B.+Software+Engineering+(Honours)+%40+Monash;LLM+integration+%26+computer+vision;Algorithms+%26+data+structures)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Building+AI+agents+and+full-stack+apps;Python+%7C+TypeScript+%7C+React+%7C+Azure;B.+Software+Engineering+Honours+%40+Monash;LLM+integration+and+computer+vision;Algorithms+and+data+structures)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ar1tro/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=react&logoColor=white)](https://echooff16.github.io/Portfolio/)
-[![Work Rights](https://img.shields.io/badge/Work_Rights-Full_(Australia)-success?style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/ar1tro/)
+[![Monash University](https://img.shields.io/badge/Monash%20University-006DAE?style=for-the-badge&amp;logo=monashuniversity&amp;logoColor=white)](https://www.monash.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&amp;logo=react&amp;logoColor=white)](https://echooff16.github.io/Portfolio/)
+![Work Rights](https://img.shields.io/badge/Work_Rights-Full_in_Australia-success?style=for-the-badge)
 
 </div>
 
@@ -18,7 +19,7 @@
 
 ```python
 software_engineer = {
-    "name"      : "Aritro Dutta",
+    "name"      : "Ari Dutta",
     "role"      : "Graduate Software Engineer",
     "education" : "Bachelor of Software Engineering (Honours), Monash University, 2025",
     "focus"     : ["AI agents & LLM integration", "Full-stack web", "Algorithms & data structures"],
@@ -61,6 +62,6 @@ I'm a Software Engineering (Honours) graduate from Monash University who builds 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&width=1500&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;width=1500&amp;section=footer"/>
 
 </div>
