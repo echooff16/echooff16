@@ -19,7 +19,7 @@
 
 ```python
 software_engineer = {
-    "name"      : "Ari Dutta",
+    "name"      : "Aritro Dutta",
     "role"      : "Graduate Software Engineer",
     "education" : "Bachelor of Software Engineering (Honours), Monash University, 2025",
     "focus"     : ["AI agents & LLM integration", "Full-stack web", "Algorithms & data structures"],
@@ -41,10 +41,10 @@ I'm a Software Engineering (Honours) graduate from Monash University who builds 
 | 🧠 **[AI Pathways](https://github.com/Qeeriai)** | AI career guidance from assessment reports | QEERI.AI (industry placement) | Python · Flask · Azure OpenAI · MongoDB · React |
 | 👓 **[LukAr Smart Glasses](https://github.com/YapSengKuang/AR-Glasses)** | Real-time object detection for AR hardware | CSIRO (industry placement) | PyTorch · YOLOv9 · OpenCV · Roboflow |
 | 🛒 **[Creation Web](https://creationexport.com)** | E-commerce site and admin portal | Creation (freelance) | JavaScript · OAuth 2.0 · SQL |
-| 📚 **Universal Book** | Real-time collaborative knowledge-sharing app | Monash Final Year Project | React · TypeScript · Supabase · PostgreSQL |
+| 📚 **[Universal Book](https://github.com/Linh-Doan/UniversalBook-Frontend)** | Real-time collaborative knowledge-sharing app | Monash Final Year Project | React · TypeScript · Supabase · PostgreSQL |
 | 🚁 **[Monash UAS](https://monashuas.org/)** | Autonomous UAV flight control | Monash student team | Lua · Avionics |
-| 📊 **Logistics Optimisation** | Graph and network-flow allocation | Monash Algorithms & Data Structures unit | Python · Graph Theory · Network Flow |
-| 🎵 **Music Pattern Analytics** | Key-independent melody search | Monash Algorithms & Data Structures unit | Python · Suffix Trees |
+| 📊 **[Logistics Optimisation](https://github.com/echooff16/Algorithms-and-DataStructures)** | Graph and network-flow allocation | Monash Algorithms & Data Structures unit | Python · Graph Theory · Network Flow |
+| 🎵 **[Music Pattern Analytics](https://github.com/echooff16/Algorithms-and-DataStructures)** | Key-independent melody search | Monash Algorithms & Data Structures unit | Python · Suffix Trees |
 
 ## 🏅 Certifications
 
